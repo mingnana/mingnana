@@ -1,7 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Hello, i'm mina!&fontSize=70"/><br/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=75bde0&height=200&section=header&text=Welcome!&desc=Mina's GitHub Profile%&fontSize=55&fontAlign=70&fontAlignY=23&rotate=13&descAlign=69&descAlignY=39&fontColor=fff"/><br/>
 
- 
+
+
+
+
+|&nbsp;&nbsp;&nbsp;&nbsp;[Project1](https://mingnana.github.io/Portfolio_GAME-SITE/index.html)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Project2](https://mingnana.github.io/Portfolio_GAME-SITE/index.html)&nbsp;&nbsp;&nbsp;&nbsp;|
  ### ⚒ My Stack ⚒
  ##### Techs that I've used at least once
  
@@ -26,6 +30,7 @@
  
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingnana&layout=compact)
-![ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingnana&show_icons=true&hide=contribs,prs)
+![ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingnana&show_icons=true&hide=contribs,prs)<br/><br/>
+![footer](https://capsule-render.vercel.app/api?color=75bde0&height=150&type=slice&section=footer)
 
  </div>
