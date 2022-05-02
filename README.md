@@ -5,7 +5,7 @@
 
 
 
-|&nbsp;&nbsp;&nbsp;&nbsp;[Project1](https://mingnana.github.io/Portfolio_GAME-SITE/index.html)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Project2](https://mingnana.github.io/MiniProject/src/main/resources/templates/index.html)&nbsp;&nbsp;&nbsp;&nbsp;|<br/><br/>
+|&nbsp;&nbsp;&nbsp;&nbsp;[Project1](https://mingnana.github.io/Portfolio_GAME-SITE/index.html)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Project2](https://mingnana.github.io/MiniProject/src/main/resources/templates/mainPage.html)&nbsp;&nbsp;&nbsp;&nbsp;|<br/><br/>
  ### ⚒ My Stack ⚒
  ##### Techs that I've used at least once
  
