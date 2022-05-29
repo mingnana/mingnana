@@ -5,7 +5,7 @@
 
 
 
-|&nbsp;&nbsp;&nbsp;&nbsp;[Project1](https://mingnana.github.io/Portfolio_GAME-SITE/indexx.html)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Project2][Box Office](https://mingnana.github.io/Portfolio_box-office/mainPage.html)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Project3](https://mingnana.github.io/Portfolio_ScrollPage/nukax.html)&nbsp;&nbsp;&nbsp;&nbsp;|<br/><br/>
+|&nbsp;&nbsp;&nbsp;&nbsp;[Project1](https://mingnana.github.io/Portfolio_GAME-SITE/indexx.html)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Project2](https://mingnana.github.io/Portfolio_box-office/mainPage.html)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Project3](https://mingnana.github.io/Portfolio_ScrollPage/nukax.html)&nbsp;&nbsp;&nbsp;&nbsp;|<br/><br/>
  
  ### ⚒ My Stack ⚒
  ##### Techs that I've used at least once
@@ -22,8 +22,7 @@
 <a href="#none"><img src="https://img.shields.io/badge/Notion-333?style=for-the-badge&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
- <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/><br/>
+<br/>
  
  
  ## 　
