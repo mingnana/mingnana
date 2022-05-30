@@ -19,7 +19,7 @@
 ### 💻 My tools 💻  
 <a href="mailto: alstjr9438@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 <a href="https://github.com/mingnana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-<a href="https://www.notion.so/ming96/Mina-Lee-3ef65c44a63b4a17920d956e0c387828"><img src="https://img.shields.io/badge/Notion-333?style=for-the-badge&logo=Notion&logoColor=white"/>
+<a href="https://ming96.notion.site/Mina-Lee-3ef65c44a63b4a17920d956e0c387828"><img src="https://img.shields.io/badge/Notion-333?style=for-the-badge&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 <br/>
