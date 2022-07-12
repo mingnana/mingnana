@@ -1,8 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=75bde0&height=200&section=header&text=Welcome!&desc=to Mina's GitHub Profile%&fontSize=55&fontAlign=70&fontAlignY=23&rotate=13&descAlign=69&descAlignY=39&&descSize=17&fontColor=fff"/><br/>
 
-
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 |&nbsp;&nbsp;&nbsp;&nbsp;[Project1](https://github.com/mingnana/Portfolio_GAME-SITE.git)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Project2](https://github.com/mingnana/Portfolio_box-office.git)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Project3](https://github.com/mingnana/Portfolio_ScrollPage.git)&nbsp;&nbsp;&nbsp;&nbsp;|<br/><br/>
