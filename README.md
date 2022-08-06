@@ -12,7 +12,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/jQuery-F43059?style=for-the-badge&logo=jQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-FF7800?style=for-the-badge&logo=JavaScript&logoColor=white"/><br/><br/>
+<img src="https://img.shields.io/badge/JavaScript-FF7800?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/><br/><br/>
        
 ### 💻 My tools 💻  
 <a href="mailto: alstjr9438@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
