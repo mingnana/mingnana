@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=75bde0&height=200&section=header&text=Welcome!&desc=to Mina's GitHub Profile%&fontSize=55&fontAlign=70&fontAlignY=23&rotate=13&descAlign=69&descAlignY=39&&descSize=17&fontColor=fff"/><br/>
+
+![header](https://capsule-render.vercel.app/api?color=75bde0&height=200&type=slice&section=header&text=Welcome!&desc=to%20Mina's%20GitHub%20Profile&fontSize=55&fontAlign=70&fontAlignY=23&rotate=13&descAlign=69&descAlignY=39&&descSize=17&fontColor=fff)<br/>
 
 
 |&nbsp;&nbsp;&nbsp;&nbsp;[Project1](https://github.com/mingnana/Portfolio_GAME-SITE.git)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Project2](https://github.com/mingnana/Portfolio_box-office.git)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Project3](https://github.com/mingnana/Portfolio_ScrollPage.git)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Project4](https://github.com/mingnana/TodoList.git)&nbsp;&nbsp;&nbsp;&nbsp;|<br/><br/>
