@@ -35,12 +35,5 @@
 <br/>
 </div>
 
----
-
-<h4 align="center">📫 Contact</h4>
-<div align="center">
-  <a href="mailto:alstjr9438@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/민아-이-97217726b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
 
 
